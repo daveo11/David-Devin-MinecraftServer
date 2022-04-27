@@ -6,4 +6,4 @@ ENV ram=1G
 
 WORKDIR /server
 
-CMD echo "Docker Minecraft server is starting now\n" && java -Xmx1G -jar paper-1.18.2-312.jar
+CMD echo "Docker Minecraft server is starting now\n" && java -Xmx1G -jar paper-1.17.1-411.jar
