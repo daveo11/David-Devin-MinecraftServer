@@ -1,4 +1,4 @@
-# David-Devin-MinecraftServer
+# Minecraft Server Final Project
 
 ## Overview:
 Minecraft server ran on verison 1.17.1 with "Core Protect" and "Player Warps" plugins, capable of being ran locally, dockerized, or through an AWS EC2 instance.
