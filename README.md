@@ -1,7 +1,7 @@
 # Minecraft Server Final Project
 
 ## Overview:
-Minecraft server ran on verison 1.17.1 with "Core Protect" and "Player Warps" plugins, capable of being ran locally, dockerized, or through an AWS EC2 instance.
+Minecraft server ran on verison 1.17.1 with "Core Protect" and "Player Warps" plugins, as well as "Copper Tools" and "Jumpstart" data packs, capable of being ran locally, dockerized, or through an AWS EC2 instance.
 
 
 ## Running minecraft server locally:
