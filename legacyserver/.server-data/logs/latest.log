@@ -31,3 +31,5 @@
 [02:07:46] [User Authenticator #1/INFO]: UUID of player dmac1023 is 295dd8bb-76b1-4547-b32b-4b2ee9a6c5f7
 [02:07:46] [Server thread/INFO]: dmac1023 joined the game
 [02:07:46] [Server thread/INFO]: dmac1023[/172.21.0.1:60136] logged in with entity id 250 at ([world]-35.82767405435715, 68.0, 188.03895920244088)
+[02:09:29] [Server thread/INFO]: dmac1023 lost connection: Disconnected
+[02:09:29] [Server thread/INFO]: dmac1023 left the game
