@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:villager,tag=CLGD,tag=Shop] at @s unless entity @p[distance=..7] run kill @s

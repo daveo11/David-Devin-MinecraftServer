@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "name": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "rewards": {
+        "function": "clgd.jumpstart:give_items"
+    }
+}
