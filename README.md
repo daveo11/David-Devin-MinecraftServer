@@ -10,7 +10,7 @@ Minecraft server ran on verison 1.17.1 with "Core Protect" and "Player Warps" pl
 
 
 ## Running minecraft server using docker:
-1. Open docker to confirm it is running
+1. Open docker desktop to confirm it is running
 2. run "cd legacyserver"
 3. run "docker-compose up" to build your server
 
@@ -27,28 +27,30 @@ Minecraft server ran on verison 1.17.1 with "Core Protect" and "Player Warps" pl
 3. Create a new key pair to access EC2 instance
 4. Select instance and connect to it using actions tab
 5. Choose EC2 instance connect, and connect
-6. run "sudo yum install java-1.8.0 -y" to update instance
-7. run "sudo yum install java-1.8.0 -y" to install java
+6. run "sudo yum install java-17.0 -y" to update instance
+7. run "sudo yum install java-17.0 -y" to install java
 8. "wget https://launcher.mojang.com/v1/objects/c8f83c5655308435b3dcf03c06d9fe8740a77469/server.jar" (minecraft file installation)
 9. "java -Xmx1024M -Xms1024M -jar server.jar nogui" to run minecraft server
 10. "nano eula.txt" and change eula=false to eula=true
 
 
 ## Technologies used:
-Docker - https://www.docker.com/
 
-AWS - https://aws.amazon.com/
+- [Docker](https://www.docker.com/)
 
-Paper - https://papermc.io/downloads
+- [AWS](https://aws.amazon.com/)
 
-Minecraft - https://www.minecraft.net/en-us
+- [Paper](https://papermc.io/downloads)
+
+- [Minecraft](https://www.minecraft.net/en-us)
 
 ## Background:
-https://www.youtube.com/watch?v=huDe-YSEVx4
 
-https://www.minecraft.net/en-us/download/server
+- [Docker-Minecraft help](https://www.youtube.com/watch?v=huDe-YSEVx4)
 
-https://minecraft.fandom.com/wiki/Tutorials/Setting_up_a_server
+- [Minecraft Download](https://www.minecraft.net/en-us/download/server)
+
+- [Local-Minecraft help](https://minecraft.fandom.com/wiki/Tutorials/Setting_up_a_server)
 
 
 
