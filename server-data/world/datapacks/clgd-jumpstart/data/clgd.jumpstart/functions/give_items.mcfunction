@@ -1,0 +1,5 @@
+give @s stone_axe
+give @s stone_pickaxe
+give @s stone_shovel
+
+give @s written_book{pages:['["",{"text":"These credits are accepted at the following shops. (click to spawn)\\n\\n"},{"text":"Wood n Goods","bold":true,"underlined":true,"color":"gold","clickEvent":{"action":"run_command","value":"/function clgd.jumpstart:shops/wood"}},{"text":"\\n\\n","color":"reset","underlined":true},{"text":"Stone Rocks Store","bold":true,"underlined":true,"color":"dark_gray","clickEvent":{"action":"run_command","value":"/function clgd.jumpstart:shops/stone"}},{"text":"\\n\\n","color":"reset","bold":true,"underlined":true},{"text":"Nether Materials","bold":true,"underlined":true,"color":"dark_red","clickEvent":{"action":"run_command","value":"/function clgd.jumpstart:shops/nether"}}]'],title:"Store Credit",author:CodingLegend0100} 16

@@ -1,0 +1,14 @@
+{
+    "__comment": "TecKillA Datapack",
+    "criteria": {
+        "unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "crafting:crafting_copper_axe"
+            }
+        }
+    },
+    "rewards": {
+        "function": "crafting:copper_axe_function"
+    }
+}
